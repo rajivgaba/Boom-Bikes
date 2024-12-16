@@ -1,5 +1,5 @@
 # Boom Bikes
-This project is related to modelling the demand for shared bikes so that the company Boom Bikes can revive after the covid-19 lockdown ends.
+This project is related to modelling the demand for shared bikes so that the company, Boom Bikes, can revive after the covid-19 lockdown ends.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -20,13 +20,10 @@ This project is related to modelling the demand for shared bikes so that the com
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- It is observed that temperature plays a significant role in bike sharing/rentals. Mild weathers tend to attract more users.
+- Summer and Fall season see the maximum number of users.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
 - Python - version 3.11.5
@@ -38,18 +35,24 @@ This project is related to modelling the demand for shared bikes so that the com
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+###### - This project was executed as part of assignment in data science and machine learning course.
+##### - References:
+  [1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
+
+###### @article { <br>
+	year={2013},<br>
+	issn={2192-6352},<br>
+	journal={Progress in Artificial Intelligence},<br>
+	doi={10.1007/s13748-013-0040-3},<br>
+	title={Event labeling combining ensemble detectors and background knowledge},<br>
+	url={http://dx.doi.org/10.1007/s13748-013-0040-3},<br>
+	publisher={Springer Berlin Heidelberg},<br>
+	keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},<br>
+	author={Fanaee-T, Hadi and Gama, Joao},<br>
+	pages={1-15}<br>
+} <br>
 
 
 ## Contact
-Created by @rajivgaba - feel free to contact me!
+Created by @rajivgaba - feel free to reach out!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
