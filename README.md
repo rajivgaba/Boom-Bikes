@@ -1,4 +1,4 @@
-# Boom Bikes
+# Boom Bikes - Predictive Analysis using Linear Regression
 This project is related to modelling the demand for shared bikes so that the company, Boom Bikes, can revive after the covid-19 lockdown ends.
 
 ## Table of Contents
