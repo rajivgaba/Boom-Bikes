@@ -13,8 +13,8 @@ This project is related to modelling the demand for shared bikes so that the com
 - Boom Bikes is a bike sharing service company that makes bikes available to the users on rental basis. Users can register for routine service or can use the bikes on ad-hoc basis. 
 - Due to coronavirus pandemic, the company has suffered considerable dips in revenues and intends to revive and is looking for a concrete business plan so that it can outperform when the economic situation improves after lockdowns are shut.
 - Boom bikes is looking to use machine learning technology to understand the factors affecting bike usage. They are looking for:
-  - Which variables are significant in predicting the demand for shared bikes.
-  - How well those variables describe the bike demands
+  - Which variables are significant in predicting the demand for shared bikes?
+  - How well those variables describe the bike demands?
 - Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
