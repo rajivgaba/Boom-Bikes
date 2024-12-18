@@ -39,18 +39,18 @@ This project is related to modelling the demand for shared bikes so that the com
 ##### - References:
   [1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
 
-###### @article { <br>
-	year={2013},<br>
-	issn={2192-6352},<br>
-	journal={Progress in Artificial Intelligence},<br>
-	doi={10.1007/s13748-013-0040-3},<br>
-	title={Event labeling combining ensemble detectors and background knowledge},<br>
-	url={http://dx.doi.org/10.1007/s13748-013-0040-3},<br>
-	publisher={Springer Berlin Heidelberg},<br>
-	keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},<br>
-	author={Fanaee-T, Hadi and Gama, Joao},<br>
-	pages={1-15}<br>
-} <br>
+###### @article { 
+	year={2013},
+	issn={2192-6352},
+	journal={Progress in Artificial Intelligence},
+	doi={10.1007/s13748-013-0040-3},
+	title={Event labeling combining ensemble detectors and background knowledge},
+	url={http://dx.doi.org/10.1007/s13748-013-0040-3},
+	publisher={Springer Berlin Heidelberg},
+	keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},
+	author={Fanaee-T, Hadi and Gama, Joao},
+	pages={1-15}
+}
 
 
 ## Contact
