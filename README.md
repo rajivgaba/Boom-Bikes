@@ -22,6 +22,7 @@ This project is related to modelling the demand for shared bikes so that the com
 ## Conclusions
 - It is observed that temperature plays a significant role in bike sharing/rentals. Mild weathers tend to attract more users.
 - Summer and Fall season see the maximum number of users.
+- People prefer riding bikes during clear weathers and moderate/pleasent weathers
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
